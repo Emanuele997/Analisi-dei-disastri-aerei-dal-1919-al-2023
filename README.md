@@ -31,6 +31,5 @@ Evoluzione degli incidenti post-11 settembre: Ho confrontato i dati degli incide
 4. Visualizzazioni
 Per ogni analisi, ho creato visualizzazioni impattanti utilizzando matplotlib e seaborn in Python. Questi grafici hanno reso i risultati più accessibili e comprensibili, aiutando a comunicare chiaramente gli insight derivati dall'analisi.
 
-5. Creazione di un Cartogramma
-Come parte bonus del progetto, ho utilizzato la libreria geopandas per creare un cartogramma che rappresentasse il numero di incidenti per nazione. Questo ha fornito una rappresentazione visiva immediata dell'impatto globale degli incidenti aerei, evidenziando le aree di maggiore attenzione.
+
 
