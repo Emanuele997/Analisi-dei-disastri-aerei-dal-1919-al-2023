@@ -34,5 +34,3 @@ Per ogni analisi, ho creato visualizzazioni impattanti utilizzando matplotlib e 
 5. Creazione di un Cartogramma
 Come parte bonus del progetto, ho utilizzato la libreria geopandas per creare un cartogramma che rappresentasse il numero di incidenti per nazione. Questo ha fornito una rappresentazione visiva immediata dell'impatto globale degli incidenti aerei, evidenziando le aree di maggiore attenzione.
 
-6. Conclusione e Implicazioni
-Al termine delle analisi, ho sintetizzato i principali risultati e fornito raccomandazioni basate sui dati per migliorare la sicurezza aerea. Ho sottolineato l'importanza di politiche di sicurezza rafforzate, formazione continua per gli equipaggi e manutenzione rigorosa dei veicoli come misure preventive chiave.
