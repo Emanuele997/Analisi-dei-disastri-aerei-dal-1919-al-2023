@@ -15,10 +15,16 @@ Utilizzando tecniche di analisi esplorativa, ho generato statistiche descrittive
 3. Risposta alle Domande di Ricerca
 Per rispondere alle domande proposte e ad altre che potrebbero fornire insight utili, ho segmentato l'analisi in più parti:
 
-Incidenti per nazione: Ho aggregato i dati per nazione per identificare dove si sono verificati più incidenti. Ho utilizzato visualizzazioni come barre e mappe per mostrare la distribuzione geografica degli incidenti.
+Incidenti per nazione: 
+
+Ho aggregato i dati per nazione per identificare dove si sono verificati più incidenti. Ho utilizzato visualizzazioni come barre e mappe per mostrare la distribuzione geografica degli incidenti.
 Incidenti per giorno della settimana: Ho estratto il giorno della settimana da ogni data di incidente per vedere se ci fossero tendenze sugli incidenti che avvengono più frequentemente in specifici giorni.
-Operatori più sicuri: Analizzando il numero di incidenti e fatalità per operatore, ho potuto identificare quali compagnie aeree avevano migliori record di sicurezza.
-Tipo di veicolo e fatalità: Ho analizzato quale tipo di veicolo era più coinvolto in incidenti con esiti fatali, utilizzando grafici per correlare il tipo di veicolo con il numero di vittime.
+Operatori più sicuri:
+
+Analizzando il numero di incidenti e fatalità per operatore, ho potuto identificare quali compagnie aeree avevano migliori record di sicurezza.
+Tipo di veicolo e fatalità:
+
+Ho analizzato quale tipo di veicolo era più coinvolto in incidenti con esiti fatali, utilizzando grafici per correlare il tipo di veicolo con il numero di vittime.
 Evoluzione degli incidenti post-11 settembre: Ho confrontato i dati degli incidenti prima e dopo l'11 settembre 2001 per valutare come le misure di sicurezza implementate dopo quella data abbiano influenzato la frequenza e la gravità degli incidenti aerei.
 4. Visualizzazioni
 Per ogni analisi, ho creato visualizzazioni impattanti utilizzando matplotlib e seaborn in Python. Questi grafici hanno reso i risultati più accessibili e comprensibili, aiutando a comunicare chiaramente gli insight derivati dall'analisi.
